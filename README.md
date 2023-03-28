@@ -3,8 +3,11 @@ Flutter JWT is a library that provides a simple and easy-to-use API for working 
 
 # Features
 Supports encoding and decoding of JWTs
+
 Built-in support for popular JWT algorithms: HS256, HS384, HS512, RS256, RS384, RS512
+
 Easy-to-use API for creating and verifying JWTs
+
 Integration with popular HTTP libraries like Dio and http
 
 # Installation
